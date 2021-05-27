@@ -19,7 +19,7 @@
 
 -----------------------------------------------------------------------------------*/
 /*===========================
-        01.COMMON css 
+        01.COMMON css
 ===========================*/
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap");
 body {
@@ -237,7 +237,7 @@ p {
   top: 9px; }
 
 /*===========================
-       02.Header css 
+       02.Header css
 ===========================*/
 .header-area {
   position: absolute;
@@ -556,12 +556,21 @@ p {
     background-color: #2e3d62; }
 
 /*===========================
-       03.Banner css 
+       03.Banner css
 ===========================*/
+.merah{
+  color: red;
+}
+.kuning{
+  color: yellow;
+}
+.hijau{
+  color: green;
+}
 .banner-area {
   position: relative;
   z-index: 5;
-  padding-top: 180px;
+  padding-top: 10px;
   padding-bottom: 110px;
   overflow: hidden; }
   .banner-area .banner-shape-1 {
@@ -782,7 +791,7 @@ p {
         color: #ff8257; }
 
 /*===========================
-      04.Features css 
+      04.Features css
 ===========================*/
 .features-area {
   padding-top: 120px;
@@ -960,7 +969,7 @@ p {
     visibility: visible; }
 
 /*===========================
-    05.Powerful Tools css 
+    05.Powerful Tools css
 ===========================*/
 .powerful-tools-area {
   position: relative;
@@ -1127,7 +1136,7 @@ p {
       padding: 0 30px; } }
 
 /*===========================
-    06.Discover css 
+    06.Discover css
 ===========================*/
 .discover-area {
   padding-top: 120px;
@@ -1248,7 +1257,7 @@ p {
       width: 100%; }
 
 /*===========================
-    07.Everything css 
+    07.Everything css
 ===========================*/
 .everything-area {
   background-color: #fff8f6;
@@ -1404,7 +1413,7 @@ p {
       padding: 0 30px; } }
 
 /*===========================
-        08.Pricing css 
+        08.Pricing css
 ===========================*/
 .pricing-area {
   padding-top: 120px;
@@ -1571,7 +1580,7 @@ p {
       background-color: #fff3f9; }
 
 /*===========================
-      09.Testimonial css 
+      09.Testimonial css
 ===========================*/
 .testimonial-area {
   padding-top: 120px;
@@ -1809,7 +1818,7 @@ p {
   margin-top: 50px; }
 
 /*===========================
-      10.Screenshot css 
+      10.Screenshot css
 ===========================*/
 .screenshot-area {
   padding-top: 120px; }
@@ -1870,7 +1879,7 @@ p {
       transform: scale(1.7); }
 
 /*===========================
-          11.FAQ's css 
+          11.FAQ's css
 ===========================*/
 .faq-area {
   padding-top: 70px;
@@ -2014,7 +2023,7 @@ p {
             line-height: 28px; } }
 
 /*===========================
-        12.Blog css 
+        12.Blog css
 ===========================*/
 .blog-area {
   padding-top: 120px;
@@ -2153,7 +2162,7 @@ p {
   padding-bottom: 115px; }
 
 /*===========================
-    13.Brand & Download css 
+    13.Brand & Download css
 ===========================*/
 .brand-download-area {
   position: relative;
@@ -2296,7 +2305,7 @@ p {
     margin-top: 50px; } }
 
 /*===========================
-        14.Footer css 
+        14.Footer css
 ===========================*/
 .footer-area {
   position: relative;
@@ -2524,7 +2533,7 @@ p {
     background-color: #ff8257; }
 
 /*===========================
-      15.Page Banner css 
+      15.Page Banner css
 ===========================*/
 .page-banner-area {
   position: relative;
@@ -2625,7 +2634,7 @@ p {
         margin-top: 10px; } }
 
 /*===========================
-     16.Blog Details css 
+     16.Blog Details css
 ===========================*/
 .blog-details {
   padding-top: 60px;
