@@ -298,7 +298,7 @@ button:hover {
 
 /* HOME HERO SECTION CSS START */
 .home-hero-section {
-    background: url(../img/hotte_homebg.jpg);
+    background: url('http://live.envalab.com/html/hotte/img/hotte_homebg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
