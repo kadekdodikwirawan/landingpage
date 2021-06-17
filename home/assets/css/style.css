@@ -713,11 +713,6 @@ p {
   .banner-content-wrapper .banner-image {
     margin-top: 50px; }
     .banner-content-wrapper .banner-image .image {
-      -webkit-transform: rotate(15deg);
-      -moz-transform: rotate(15deg);
-      -ms-transform: rotate(15deg);
-      -o-transform: rotate(15deg);
-      transform: rotate(15deg);
       -webkit-animation: ImgBounce1 2s ease-in-out infinite alternate;
       -moz-animation: ImgBounce1 2s ease-in-out infinite alternate;
       -o-animation: ImgBounce1 2s ease-in-out infinite alternate;
